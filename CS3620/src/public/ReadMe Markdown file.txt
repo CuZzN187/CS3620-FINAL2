@@ -48,3 +48,6 @@ $app->get('/ThePHPRoom', function (Request $req, Response $resp)
 -you type and all messages are displayed along with the one you just typed
 
 ---------------------------------------------------------------------------------------------------------------
+
+
+CHATS.SQL IS MY DATABASE WHICH IS ALSO IN THE PUBLIC DIRECTORY
